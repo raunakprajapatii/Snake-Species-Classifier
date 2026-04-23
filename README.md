@@ -180,12 +180,6 @@ Epoch 4+     │ Backbone UNFROZEN │ All parameters trainable
 
 ---
 
-### 🗺️ Class Activation Map (CAM)
-> *Add your screenshot here — from the **Class Activation Map** cell*
-
-![CAM](assets/cam.png)
-
----
 
 ### 📋 Classification Report
 > *Paste your `sklearn.metrics.classification_report` output below*
