@@ -139,42 +139,42 @@ Epoch 4+     │ Backbone UNFROZEN │ All parameters trainable
 ---
 
 ### 📊 Training & Validation Loss Curves
-> *Add your screenshot here — from the **Learning Curve** cell in the notebook*
+
 
 ![Loss Curve](assets/loss_curve.png)
 
 ---
 
 ### 📈 Validation Accuracy per Epoch
-> *Add your screenshot here — val accuracy plot from the **Learning Curve** cell*
+
 
 ![Val Accuracy](assets/loss_curve.png)
 
 ---
 
 ### 🔲 Confusion Matrix
-> *Add your screenshot here — from the **Confusion Matrix** cell*
+
 
 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
 
 ### 📉 ROC Curve (per class)
-> *Add your screenshot here — from the **ROC Curve** cell*
+
 
 ![ROC Curve](assets/roc_curve.png)
 
 ---
 
 ### 🎯 Precision–Recall Curve
-> *Add your screenshot here — from the **Precision-Recall Curve** cell*
+
 
 ![Precision Recall](assets/precision_recall.png)
 
 ---
 
 ### 📦 Confidence Score Distribution
-> *Add your screenshot here — from the **Confidence Score Distribution** cell*
+
 
 ![Confidence Distribution](assets/confidence_distribution.png)
 
@@ -182,7 +182,7 @@ Epoch 4+     │ Backbone UNFROZEN │ All parameters trainable
 
 
 ### 📋 Classification Report
-> *Paste your `sklearn.metrics.classification_report` output below*
+
 
 ```
                 precision    recall  f1-score   support
@@ -287,16 +287,16 @@ TRAIN_IMG_DIR  = BASE_PATH + "/SnakeCLEF2022-medium_size/SnakeCLEF2022-medium_si
 ```
 snake-species-classifier/
 │
-├── SnakeSpeciesClassifier.ipynb   # Full training + evaluation notebook
-├── README.md                      # This file
-└── assets/                        # Add your screenshots here
+├── SnakeSpeciesClassifier.ipynb  
+├── README.md                     
+└── assets/                      
     ├── loss_curve.png
     ├── val_accuracy.png
     ├── confusion_matrix.png
     ├── roc_curve.png
     ├── precision_recall.png
     ├── confidence_distribution.png
-    └── cam.png
+   
 ```
 
 ---
@@ -305,7 +305,7 @@ snake-species-classifier/
 
 **Rounak** — [GitHub](https://github.com/raunakprajapatii) · [LinkedIn](http://www.linkedin.com/in/rounak-prajapati-3896jee)
 
-*Built as a academic group course project on deep learning and computer vision*
+*Built as an academic group course project on deep learning and computer vision*
 
 ---
 
